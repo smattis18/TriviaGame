@@ -1,0 +1,68 @@
+body {
+    background-image: url(../images/darkness.png);
+    background-position: center;
+    font-family: 'Nova Square', cursive;
+}
+
+input {
+    padding-bottom: 25px;
+    font-size: 15px;
+}
+
+.row {
+    height: 80px;
+}
+
+.card-title {
+    background-image: url(../images/darkness.png);
+    padding: 40px;
+    text-align: center;
+    font-size: 80px;
+    background-color: #000000;
+    color: #33C1FF;
+}
+
+.btn {
+    padding: 20px 100px;
+    font-family: 'Nova Square', cursive;
+    font-size: 40px;
+    color: #FFFFFF;
+    background-color: #C0C0C0;
+}
+
+.main-display {
+    background-image: url(../images/qbkls.png);
+    margin-top: -12px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.questions {
+    line-height: 1;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 0px;
+}
+
+#timer {
+    background-color: #000000;
+    color: #00ff00;
+    margin-bottom: 20px;
+    padding: 5px 0px;
+    font-family: 'Nova Square', cursive;
+    font-size: 22px;
+}
+
+#title {
+    padding-top: 50px;
+}
+
+#incorrect {
+    padding-bottom: 50px;
+}

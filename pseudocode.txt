@@ -1,0 +1,8 @@
+Clicking the 'Start' button begins a :30 second timer.  You will also be shown 10 multiple choice trivia
+questions.  You will select your answer by selecting a radio button next to your answer. 
+
+When the click on the 'Done' button at the bottom of the page or the timer runs out, you will be directed
+to a results page.  This page will display "All Done!" as well as the number of correct answers, incorrect
+answers and unanswered questions.
+
+Will questions be different when game restarts?
