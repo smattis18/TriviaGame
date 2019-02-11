@@ -39,7 +39,7 @@ $("#start-game").on("click", function () {
 
     $(".main-display").append($("<button>").addClass("btn btn-lg btn-dark").attr("id", "finish-game").text("Done").on("click", function() {gameResults(interval);}));
 
-    var seconds_left = 10;
+    var seconds_left = 30;
     var interval = setInterval(function() {
         document.getElementById('timer').innerHTML = "Time Until Takeoff: " + --seconds_left + " Seconds";
     
